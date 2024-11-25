@@ -1,0 +1,1 @@
+import{d as a}from"./BU1wA5fV.js";const o=a("announcementdb",{state:()=>({currentType:1,page:1,totalPages:null}),actions:{updatePagination(e,t){this.page=e,this.totalPages=t},updateNewsType(e){this.currentType=e}}});export{o as a};

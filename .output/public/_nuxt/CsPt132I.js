@@ -1,0 +1,1 @@
+import{_ as a}from"./DlAUqK2U.js";import{J as o,Q as r,a7 as t,B as s}from"./BhvJLqs2.js";const n={};function c(e,d){return s(),o("div",null,[r(" 我是admin layout "),t(e.$slots,"default")])}const _=a(n,[["render",c]]);export{_ as default};

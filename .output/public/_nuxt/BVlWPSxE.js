@@ -1,0 +1,1 @@
+import"./BU1wA5fV.js";const e=""+new URL("journalImage.Di90KIqp.png",import.meta.url).href,o=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{o as _,e as a};
