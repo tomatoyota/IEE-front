@@ -1,0 +1,1 @@
+const o={setHeader(){return{"Content-Type":"application/json",Authorization:"Bearer your_token_here","Access-Control-Allow-Credentials":"true","Access-Control-Allow-Methods":"Get, Post, OPTIONS","Access-Control-Allow-Headers":"Authrization, Content-Type"}}};export{o as h};

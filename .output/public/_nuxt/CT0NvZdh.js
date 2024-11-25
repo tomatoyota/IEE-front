@@ -1,0 +1,1 @@
+import"./BU1wA5fV.js";const e=""+new URL("chairman.Uo_rP1Dt.png",import.meta.url).href,o=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{e as _,o as a};

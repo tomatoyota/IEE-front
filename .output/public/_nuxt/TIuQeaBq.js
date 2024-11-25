@@ -1,0 +1,1 @@
+import"./BU1wA5fV.js";const e=""+new URL("quarterlyImage.DU-rbRHs.png",import.meta.url).href,r=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{r as _,e as a};
